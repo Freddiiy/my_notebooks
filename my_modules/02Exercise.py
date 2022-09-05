@@ -5,11 +5,11 @@ def print_file_content(file: str):
 
 
 def write_list_to_file(filename: str, text):
-    with open(filename, "a") as f:
+    with open(filename, "a", "utf-8") as f:
         f.write(text)
 
 
 if __name__ == "__main__":
     print_file_content("../../data/country_codes.csv")
-    write_list_to_file("textfile.txt")
+    write_list_to_file("textfile.txt", "din mor er sød")
 
