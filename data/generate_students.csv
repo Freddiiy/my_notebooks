@@ -1,0 +1,245 @@
+Name;Gender;Courses;imageUrl 
+Annika
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/459 
+Angelene
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/639 
+Rosalba
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/680 
+Bethaney
+;1;;https://www.fakelink.com/img/558 
+Hieu
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/273 
+Shameca
+;0;;https://www.fakelink.com/img/341 
+Chanell
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/274 
+Charle
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/354 
+Joselin
+;1;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/133 
+Lance
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/950 
+Alita
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/870 
+Shermeka
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/70 
+Terrail
+;0;;https://www.fakelink.com/img/15 
+Pratik
+;0;;https://www.fakelink.com/img/978 
+Isaura
+;0;;https://www.fakelink.com/img/50 
+Shervin
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/591 
+Cantrell
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/358 
+Harrison
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/89 
+Shalisha
+;1;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/130 
+Tephanie
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/894 
+Lizzeth
+;1;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/23 
+Chenelle
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/524 
+Debora
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/881 
+Krystyl
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/23 
+Laney
+;1;;https://www.fakelink.com/img/370 
+Ashly
+;1;;https://www.fakelink.com/img/184 
+Gevin
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/829 
+Jaslynn
+;0;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/583 
+Caylin
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/877 
+Merlyn
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/949 
+Samora
+;1;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/891 
+Ayumi
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/550 
+Ebonee
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/11 
+Mansi
+;0;;https://www.fakelink.com/img/27 
+Fuquan
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/738 
+Pablo
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/192 
+Wallace
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/499 
+Lacandice
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/835 
+Tristy
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/977 
+Tywanda
+;1;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/294 
+Tameshia
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/942 
+Lynita
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/3 
+Kymberlee
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/485 
+Tanzania
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/250 
+Pamela
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/5 
+Marin
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/34 
+Bonifacio
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/341 
+Dong
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/567 
+Countney
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/159 
+Starr
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/163 
+Tamar
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/312 
+Shalane
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/74 
+Sanovia
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/757 
+Brendi
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/440 
+Kalei
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/606 
+Chrystie
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/820 
+Janeka
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/871 
+Kinzie
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/272 
+Lavina
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/444 
+Lasonya
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/729 
+Weslie
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/293 
+Jamica
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/537 
+Glenn
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/702 
+Carsen
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/146 
+Hiran
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/161 
+Meyosha
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/321 
+Ebonique
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/355 
+Madonna
+;0;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/60 
+Valentina
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/366 
+Anai
+;1;;https://www.fakelink.com/img/6 
+Rosalva
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/833 
+Dawan
+;0;;https://www.fakelink.com/img/988 
+Jaccob
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/984 
+Shareese
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/82 
+Shelah
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/961 
+Blia
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/664 
+Darnel
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/713 
+Shainna
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/830 
+Chanh
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/328 
+Margues
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/898 
+Claudio
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/291 
+Antowan
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/723 
+Reanne
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/22 
+Duston
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/645 
+Rhiannon
+;0;;https://www.fakelink.com/img/708 
+Myriam
+;0;;https://www.fakelink.com/img/563 
+Alim
+;0;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/201 
+Sherlyn
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/763 
+Shandria
+;1;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/699 
+Yaakov
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/674 
+Reid
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/863 
+Minna
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/426 
+Ruchi
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/653 
+Kamia
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/38 
+Farshad
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/583 
+Keandrea
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/975 
+Nadira
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/302 
+Johnita
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/417 
+Arya
+;0;;https://www.fakelink.com/img/940 
+Aylin
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/278 
+Krupa
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/996 
+Talika
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/503 
+Tiarra
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/76 
+Loribeth
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/481 
+Breane
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/441 
+Flossie
+;0;;https://www.fakelink.com/img/396 
+Zan
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/92 
+Trevin
+;0;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/46 
+Kalila
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/487 
+Abeer
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/383 
+Destinee
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/575 
+Jeanell
+;1;;https://www.fakelink.com/img/55 
+Tiffane
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) ;https://www.fakelink.com/img/680 
+Kortez
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/810 
+Appollonia
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/829 
+Mireille
+;1;Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/758 
+Lynda
+;0;;https://www.fakelink.com/img/378 
+Alexsandra
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/198 
+Jacinto
+;1;Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) ;https://www.fakelink.com/img/743 
+Rommy
+;0;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/167 
+Jeremian
+;1;;https://www.fakelink.com/img/610 
+Chancey
+;1;Course(course_name='Math', classroom='C105', teacher='Bent', etcs=80, grade=7) Course(course_name='Computer Science', classroom='C207', teacher='Henrik', etcs=50, grade=12) Course(course_name='Danish', classroom='C257', teacher='Anette', etcs=20, grade=2) ;https://www.fakelink.com/img/288 
