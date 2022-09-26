@@ -1,0 +1,23 @@
+1664187441976	geckodriver	INFO	Listening on 127.0.0.1:52603
+1664187445028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52604" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Frederik\\AppData\\Local\\Temp\\rust_mozprofileRpIF0K"
+*** You are running in headless mode.
+1664187445303	Marionette	INFO	Marionette enabled
+1664187445308	Marionette	INFO	Listening on port 52622
+WebDriver BiDi listening on ws://127.0.0.1:52604
+Read port: 52622
+1664187445470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Frederik\\AppData\\Local\\Temp\\rust_mozprofileRpIF0K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52604/devtools/browser/7c3d5c02-324e-4353-9e9f-b9ca097ae782
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52695
+1664187659504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Frederik\\AppData\\Local\\Temp\\rust_mozprofileZ4oLQ4"
+*** You are running in headless mode.
+1664187659774	Marionette	INFO	Marionette enabled
+1664187659778	Marionette	INFO	Listening on port 52705
+WebDriver BiDi listening on ws://127.0.0.1:52696
+Read port: 52705
+1664187659946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Frederik\\AppData\\Local\\Temp\\rust_mozprofileZ4oLQ4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52696/devtools/browser/3b589ea5-5618-4195-8202-343bcb91c30e
