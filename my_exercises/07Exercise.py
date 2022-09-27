@@ -33,7 +33,7 @@ def dba_find_products(search: str):
     options.headless = True
 
     browser = webdriver.Firefox(service=Service(GeckoDriverManager().install()), options=options)
-    browser.get(f"https://www.dba.dk/soeg/?soeg={search}")
+    browser.get(base_url)
     browser.implicitly_wait(3)
 
     search_field = browser.find_element(By.ID, "searchField")
@@ -49,6 +49,20 @@ def dba_find_products(search: str):
     search_results = soup.find("table")
     print(search_results)
 
+
+"""
+Jeg har prøvet så meget. Jeg troede prøvede først at kører alle table childs igennem i selenium ved at bruge find By.name
+osv. Så fandt jeg prisen i det <a> tag. Der var ingen identifier i tagget, så jeg fandt det ved at bruge [-1] siden det altid
+var det sidste child i tablerow.
+
+Jeg addede så resultaterne til en liste hvis deres lokation havde "København" i sig. Jeg mistede desværre koden.
+Jeg prøvede så igen med at bruge page_source til BeautifulSoup men nu er det så sent og jeg forstår ikke hvorfor siden
+ikke skifter. Ellers ville jeg lave det ved at finde det eneste table der er og så gå igennem det med den samme tanke
+
+Synes bs er lidt bedre til at scrape hjemmesider hvor selenium er god til at lave UI traversal.
+
+Det er sent og jeg gider ikke mere. Har lært noget i det mindste.
+"""
 
 
 
