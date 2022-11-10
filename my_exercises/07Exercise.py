@@ -1,7 +1,7 @@
 """
 Assignment 7
 This assignment requires you to work with selenium, BeautifullSoup and possibly regular expressions
-The next couple of weeks we are going to ask you: the students to create the assignment. The plan is for every group, to find a suitable website and create a a question to ask about the data on the site. These questions should be available to everyone thursday at 8:30 here: https://docs.google.com/spreadsheets/d/1UCOG-fTx9J5-kpFZ4zC9X8Cl8kiPbOoZpPWwUOopZxE/edit?usp=sharing
+The next couple of weeks we are going to ask you: the students to create the assignment. The plan is for every group, to find a suitable website and create a a question to ask about the my_data on the site. These questions should be available to everyone thursday at 8:30 here: https://docs.google.com/spreadsheets/d/1UCOG-fTx9J5-kpFZ4zC9X8Cl8kiPbOoZpPWwUOopZxE/edit?usp=sharing
 Then for the weekly assignment you can choose between the different exercises presented on the specific week.
 Fallback plan
 If this plan has some startup trouble, I have made a backup exercise below that you can choose if you cant find a suitable exercise on the google sheet.
@@ -9,7 +9,7 @@ If this plan has some startup trouble, I have made a backup exercise below that 
 import bs4
 
 """
-Part 1: Preparing data
+Part 1: Preparing my_data
     Use selenium to go to dba.dk with any search phrase
     Find all products added today
     Find only those from ‘København og omegn’

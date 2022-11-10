@@ -38,7 +38,7 @@ def write_csv(content, filename: str = "textfile.txt"):
 def read_csv_cli():
     parser = argparse.ArgumentParser(description="A function that reads a csv file.")
     parser.add_argument("csv", help="Input the file.")
-    parser.add_argument("--file", help="The file the data gets dumped to")
+    parser.add_argument("--file", help="The file the my_data gets dumped to")
     args = parser.parse_args()
     csv_file = args.csv
     if not csv_file:
@@ -98,5 +98,5 @@ def print_emails(file_names):
 
 
 if __name__ == "__main__":
-    print_emails(get_all_file_names("../../data"))
+    print_emails(get_all_file_names("../../my_data"))
 

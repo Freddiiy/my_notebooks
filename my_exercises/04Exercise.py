@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 def ex_one():
-    with open("../data/befkbhalderstatkode.csv", "r") as file_obj:
+    with open("../my_data/befkbhalderstatkode.csv", "r") as file_obj:
         neighb = np.genfromtxt(file_obj, delimiter=",", dtype=np.uint, skip_header=1)
         neighb_2015 = neighb
         neighb_2015_mask = (neighb_2015[:, 0] == 2015)

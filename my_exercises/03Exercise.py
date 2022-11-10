@@ -55,7 +55,7 @@ class Simple_Student:
 def gen_students(n: int):
     names = []
     returnable_students = []
-    with open("../data/names.txt", "r") as names_file:
+    with open("../my_data/names.txt", "r") as names_file:
         for name in names_file:
             names.append(name)
     _course_1 = Course("Math", "C105", "Bent", 80, 7)
@@ -83,7 +83,7 @@ def gen_students(n: int):
         print(f"{i.gender} {i.name} {i.img_url} {len(returnable_students)}")
 
     # Write generated students to file
-    with open("../data/generate_students.csv", "w") as generated_student_file:
+    with open("../my_data/generate_students.csv", "w") as generated_student_file:
         buffer = "Name;Gender;Courses;imageUrl \n"
         for i in returnable_students:
             course_buffer = ""
@@ -131,4 +131,4 @@ if __name__ == "__main__":
         print(f"{student.name} {student.gender} {student.data_sheet.get_grades_as_list()}")
         print(f"{student.name} grade avg: {student.get_avg_grade()}")
 
-    read_students_into_list("../data/generate_students.csv")
+    read_students_into_list("../my_data/generate_students.csv")
